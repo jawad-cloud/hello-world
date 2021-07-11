@@ -1,4 +1,1 @@
-function greet(){
-cokkk
-
-}
+console.log("hello")
